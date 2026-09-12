@@ -1,2 +1,2 @@
-# PoC Application for SpringBoot - Hono Architecture
+# hypermedia-dynapage-demo — Hono rendering service
 
