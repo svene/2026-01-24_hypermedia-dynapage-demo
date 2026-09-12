@@ -1,5 +1,5 @@
 {
-  "name": "2025-12-31_springboot-hono-poc",
+  "name": "2026-01-24_hypermedia-dynapage-demo",
   "scripts": {
     "dev": "NODE_ENV=development bun run --hot src/index.ts"
   },
